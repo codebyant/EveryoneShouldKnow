@@ -1,0 +1,14 @@
+{
+  "user_joined_call": "{member} joined the call! @everyone",
+  "user_in_channel": "{member} joined {channel}",
+  "user_left_channel": "{member} left {channel}",
+  "user_moved_to_channel": "{member} left {old_channel} and went to {new_channel}",
+  "leaderboard_title": "Entry Leaderboard:",
+  "leaderboard_entry": "{position}. {name}: {count} times",
+  "toggle_enabled": "Functionality to send a message when someone enters a call is now enabled.",
+  "toggle_disabled": "Functionality to send a message when someone enters a call is now disabled.",
+  "help_title": "Hello, {author}! Here's the list of available commands:",
+  "help_leaders": "/leaders - Shows how many times each user entered calls.",
+  "help_toggle": "/toggle - Turns on/off the functionality of sending a message when someone enters a call.",
+  "help_help": "/help - Get a list of commands."
+}

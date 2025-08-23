@@ -1,0 +1,8 @@
+services:
+  bot:
+    container_name: esk
+    build:
+      context: .
+    restart: unless-stopped
+    env_file:
+      - .env
