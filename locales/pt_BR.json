@@ -1,0 +1,14 @@
+{
+  "user_joined_call": "{member} entrou na call! @everyone",
+  "user_in_channel": "{member} entrou em {channel}",
+  "user_left_channel": "{member} saiu de {channel}",
+  "user_moved_to_channel": "{member} saiu de {old_channel} e foi para {new_channel}",
+  "leaderboard_title": "Ranking de Entradas:",
+  "leaderboard_entry": "{position}. {name}: {count} vezes",
+  "toggle_enabled": "Funcionalidade de enviar mensagem quando alguém entra na call foi ativada.",
+  "toggle_disabled": "Funcionalidade de enviar mensagem quando alguém entra na call foi desativada.",
+  "help_title": "Olá, {author}! Aqui está a lista de comandos disponíveis:",
+  "help_leaders": "/leaders - Mostra quantas vezes cada usuário entrou em calls.",
+  "help_toggle": "/toggle - Ativa/desativa a funcionalidade de enviar mensagem quando alguém entra na call.",
+  "help_help": "/help - Obtém a lista de comandos."
+}

@@ -7,6 +7,7 @@ WORKDIR /app
 # Copy the necessary files to the bot container
 COPY bot.py /app
 COPY requirements.txt /app
+COPY locales /app/locales
 
 # Install dependencies
 RUN pip install --no-cache-dir -r requirements.txt
