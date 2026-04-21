@@ -1,4 +1,4 @@
 discord.py==1.7.3
 pypresence==4.2.0
 discord-py-slash-command==1.0.7
-python-dotenv==0.21.0
+python-dotenv==1.2.2
